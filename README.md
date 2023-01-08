@@ -57,8 +57,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a [![Deploy]
-(https://www.herokucdn.com/deploy/button.svg)] (https://heroku.com/deploy?template=https://github.com/MR-BOTZt/Testingg) 
+<a> (https://www.herokucdn.com/deploy/button.svg)] (https://heroku.com/deploy?template=https://github.com/MR-BOTZt/Testingg) 
 </a>
 </p>
 </details>
